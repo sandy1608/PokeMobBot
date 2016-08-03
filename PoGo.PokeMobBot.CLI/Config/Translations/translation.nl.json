@@ -6,7 +6,7 @@
     },
     {
       "Key": "greatPokeball",
-      "Value": "SuperBall"
+      "Value": "GreatBall"
     },
     {
       "Key": "ultraPokeball",
@@ -14,7 +14,7 @@
     },
     {
       "Key": "masterPokeball",
-      "Value": "MeesterBall"
+      "Value": "MasterBall"
     },
     {
       "Key": "wrongAuthType",
@@ -50,11 +50,11 @@
     },
 	{
       "Key": "eventUseLuckyEggMinPokemonCheck",
-      "Value": "Not enough Pokemon to trigger a lucky egg. Waiting for {0} more. ({1}/{2})"
+      "Value": "Niet genoeg Pokémon om een Lucky Egg te gebruiken. Wachten op {0} meer. ({1}/{2})"
     },
     {
       "Key": "eventPokemonEvolvedSuccess",
-      "Value": "{0} successvol voor {1}xp"
+      "Value": "{0} successvol geëvolueerd voor {1}xp"
     },
     {
       "Key": "eventPokemonEvolvedFailed",
@@ -190,7 +190,7 @@
     },
     {
       "Key": "accessTokenExpired",
-      "Value": "Access token expired. Relogin to get a new token."
+      "Value": "Login Token verouderd, log opnieuw in om een nieuwe token te krijgen."
     },
     {
       "Key": "tryingAgainIn",
